@@ -3,7 +3,18 @@
   <groupId>li.jesse</groupId>
   <artifactId>ZzDesignPatterns</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <name>${project.groupId}:${project.artifactId}</name>
   <url>https://github.com/jesselix</url>
   <description>Design Patterns Knowledge and Demos</description>
+  
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+  
 </project>
