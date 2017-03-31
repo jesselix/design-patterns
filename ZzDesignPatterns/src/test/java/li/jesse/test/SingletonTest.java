@@ -1,6 +1,6 @@
 package li.jesse.test;
 
-public class StructuralTest
+public class SingletonTest
 {
 
 }
