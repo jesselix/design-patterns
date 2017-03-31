@@ -1,2 +1,2 @@
 # ZzDesignPatterns
-Design Patterns Knowledge and Samples
+Design Patterns Knowledge and Examples
