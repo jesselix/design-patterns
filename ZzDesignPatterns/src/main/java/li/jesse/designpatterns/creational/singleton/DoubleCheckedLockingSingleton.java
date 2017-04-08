@@ -13,7 +13,7 @@ public class DoubleCheckedLockingSingleton
     	
     }
  
-    public static DoubleCheckedLockingSingleton getSingleton() 
+    public static DoubleCheckedLockingSingleton getInstance() 
     {
         if (instance == null) 
         {                         
