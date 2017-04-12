@@ -1,4 +1,4 @@
-package li.jesse.test;
+package li.jesse.test.designpatterns.creational.singleton;
 
 import org.junit.Test;
 
@@ -43,7 +43,5 @@ public class SingletonTest
 		System.out.println(StaticInnerSingleton.getInstance());
 	}
 }
-
-
 
 
