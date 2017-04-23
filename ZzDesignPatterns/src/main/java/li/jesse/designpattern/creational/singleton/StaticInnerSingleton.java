@@ -1,4 +1,4 @@
-package li.jesse.designpatterns.creational.singleton;
+package li.jesse.designpattern.creational.singleton;
 
 /*
  * static inner

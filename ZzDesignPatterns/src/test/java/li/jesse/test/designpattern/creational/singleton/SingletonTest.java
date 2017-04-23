@@ -1,13 +1,13 @@
-package li.jesse.test.designpatterns.creational.singleton;
+package li.jesse.test.designpattern.creational.singleton;
 
 import org.junit.Test;
 
-import li.jesse.designpatterns.creational.singleton.SimpleSingleton;
-import li.jesse.designpatterns.creational.singleton.StaticInnerSingleton;
-import li.jesse.designpatterns.creational.singleton.SynchronizedSingleton;
-import li.jesse.designpatterns.creational.singleton.DoubleCheckedLockingSingleton;
-import li.jesse.designpatterns.creational.singleton.EagerSingleton;
-import li.jesse.designpatterns.creational.singleton.NonSingleton;
+import li.jesse.designpattern.creational.singleton.SimpleSingleton;
+import li.jesse.designpattern.creational.singleton.StaticInnerSingleton;
+import li.jesse.designpattern.creational.singleton.SynchronizedSingleton;
+import li.jesse.designpattern.creational.singleton.DoubleCheckedLockingSingleton;
+import li.jesse.designpattern.creational.singleton.EagerSingleton;
+import li.jesse.designpattern.creational.singleton.NonSingleton;
 
 public class SingletonTest
 {
