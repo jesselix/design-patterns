@@ -1,4 +1,4 @@
-package li.jesse.test.designpattern.creational.singleton;
+package li.jesse.designpattern.creational.singleton;
 
 import org.junit.Test;
 
