@@ -10,7 +10,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <version>0.0.1-SNAPSHOT</version>
   
   <name>${project.groupId}:${project.artifactId}</name>
-  <url>https://github.com/jesselix</url>
+  <url>https://github.com/jesselix/zz-design-patterns</url>
   <description>Design Patterns Knowledge and Examples</description>
   
   <dependencies>
