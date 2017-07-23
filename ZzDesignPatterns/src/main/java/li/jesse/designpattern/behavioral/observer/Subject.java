@@ -21,7 +21,7 @@ public class Subject
     {
         for (Observer observer : observers)
         {
-
+            observer.update(this);
         }
     }
 }
