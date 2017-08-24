@@ -11,10 +11,9 @@ public class StrategyTest
     public void testClient()
     {
         MemberStrategy strategy = new AdvancedMemberStrategy();
-        // 创建环境
         Price price = new Price(strategy);
-        // 计算价格
+
         double quote = price.quote(300);
-        System.out.println("图书的最终价格为：" + quote);
+        System.out.println("the price of the book is: " + quote);
     }
 }
