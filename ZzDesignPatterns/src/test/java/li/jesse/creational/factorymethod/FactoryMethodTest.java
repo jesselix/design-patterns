@@ -25,7 +25,6 @@ public class FactoryMethodTest
         c.drive();
     }
 
-
     @Test
     public void testFactoryMethod()
     {
