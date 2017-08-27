@@ -1,4 +1,4 @@
-package li.jesse.behavioral.strategy;
+package li.jesse.behavioral.strategy.template;
 
 public class Context
 {
