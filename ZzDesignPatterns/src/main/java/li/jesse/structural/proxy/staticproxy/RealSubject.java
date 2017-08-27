@@ -1,4 +1,4 @@
-package li.jesse.structural.proxy.staticproxy.template;
+package li.jesse.structural.proxy.staticproxy;
 
 public class RealSubject implements Subject
 {

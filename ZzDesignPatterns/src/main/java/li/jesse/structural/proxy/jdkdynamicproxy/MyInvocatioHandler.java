@@ -1,4 +1,4 @@
-package li.jesse.structural.proxy.jdkdynamicproxy.template;
+package li.jesse.structural.proxy.jdkdynamicproxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

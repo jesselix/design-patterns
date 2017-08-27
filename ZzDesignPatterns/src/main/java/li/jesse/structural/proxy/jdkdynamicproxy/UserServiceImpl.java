@@ -1,4 +1,4 @@
-package li.jesse.structural.proxy.jdkdynamicproxy.template;
+package li.jesse.structural.proxy.jdkdynamicproxy;
 
 public class UserServiceImpl implements Service
 {
