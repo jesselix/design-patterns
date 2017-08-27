@@ -1,4 +1,4 @@
-package li.jesse.behavioral.observer;
+package li.jesse.behavioral.observer.template;
 
 import java.util.ArrayList;
 import java.util.List;

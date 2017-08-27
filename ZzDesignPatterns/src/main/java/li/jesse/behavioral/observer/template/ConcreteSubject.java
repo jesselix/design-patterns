@@ -1,4 +1,4 @@
-package li.jesse.behavioral.observer;
+package li.jesse.behavioral.observer.template;
 
 public class ConcreteSubject extends Subject
 {
