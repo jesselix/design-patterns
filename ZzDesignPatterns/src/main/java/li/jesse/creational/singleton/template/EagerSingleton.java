@@ -1,4 +1,4 @@
-package li.jesse.creational.singleton;
+package li.jesse.creational.singleton.template;
 
 /*
  * eager initialization

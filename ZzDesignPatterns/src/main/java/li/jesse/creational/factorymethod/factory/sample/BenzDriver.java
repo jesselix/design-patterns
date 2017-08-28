@@ -1,4 +1,4 @@
-package li.jesse.creational.factorymethod.sample;
+package li.jesse.creational.factorymethod.factory.sample;
 
 import li.jesse.creational.factorymethod.simplefactory.sample.Benz;
 import li.jesse.creational.factorymethod.simplefactory.sample.Car;

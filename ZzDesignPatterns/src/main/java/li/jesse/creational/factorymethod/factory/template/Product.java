@@ -1,4 +1,4 @@
-package li.jesse.creational.factorymethod;
+package li.jesse.creational.factorymethod.factory.template;
 
 public abstract class Product
 {

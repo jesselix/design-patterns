@@ -1,5 +1,6 @@
 package li.jesse.creational.singleton;
 
+import li.jesse.creational.singleton.template.*;
 import org.junit.Test;
 
 public class SingletonTest

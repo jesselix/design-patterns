@@ -1,9 +1,11 @@
 package li.jesse.creational.factorymethod;
 
-import li.jesse.creational.factorymethod.sample.BenzDriver;
-import li.jesse.creational.factorymethod.sample.Driver2;
+import li.jesse.creational.factorymethod.factory.sample.BenzDriver;
+import li.jesse.creational.factorymethod.factory.sample.Driver2;
+import li.jesse.creational.factorymethod.factory.template.*;
 import li.jesse.creational.factorymethod.simplefactory.sample.Car;
 import li.jesse.creational.factorymethod.simplefactory.sample.Driver;
+
 import org.junit.Test;
 
 public class FactoryMethodTest
