@@ -4,15 +4,15 @@ public abstract class Game
 {
     private int playersCount;
 
-    abstract void initializeGame();
+    public abstract void initializeGame();
 
-    abstract void makePlay(int player);
+    public abstract void makePlay(int player);
 
-    abstract boolean endOfGame();
+    public abstract boolean endOfGame();
 
-    abstract void printWinner();
+    public abstract void printWinner();
 
-    final void playOneGame(int playersCount) {
+    public final void playOneGame(int playersCount) {
         this.playersCount = playersCount;
         initializeGame();
         int j = 0;
