@@ -1,7 +1,7 @@
 package li.jesse.behavioral.chainofresponsibility;
 
-import li.jesse.behavioral.chainofresponsibility.sample.Customer;
-import li.jesse.behavioral.chainofresponsibility.sample.handler.PriceHandler;
+import li.jesse.behavioral.chainofresponsibility.example.Customer;
+import li.jesse.behavioral.chainofresponsibility.example.handler.PriceHandler;
 import org.junit.Test;
 
 import java.util.Random;

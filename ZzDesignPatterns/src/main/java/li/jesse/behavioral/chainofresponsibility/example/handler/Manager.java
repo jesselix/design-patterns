@@ -1,4 +1,4 @@
-package li.jesse.behavioral.chainofresponsibility.sample.handler;
+package li.jesse.behavioral.chainofresponsibility.example.handler;
 
 public class Manager extends PriceHandler
 {

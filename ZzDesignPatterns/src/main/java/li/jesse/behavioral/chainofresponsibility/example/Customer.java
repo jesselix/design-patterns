@@ -1,6 +1,6 @@
-package li.jesse.behavioral.chainofresponsibility.sample;
+package li.jesse.behavioral.chainofresponsibility.example;
 
-import li.jesse.behavioral.chainofresponsibility.sample.handler.PriceHandler;
+import li.jesse.behavioral.chainofresponsibility.example.handler.PriceHandler;
 
 public class Customer
 {

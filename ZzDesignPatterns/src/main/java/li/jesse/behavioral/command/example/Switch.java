@@ -1,4 +1,4 @@
-package li.jesse.behavioral.command.sample;
+package li.jesse.behavioral.command.example;
 
 import java.util.ArrayList;
 import java.util.List;

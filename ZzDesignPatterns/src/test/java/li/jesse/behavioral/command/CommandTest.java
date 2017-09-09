@@ -1,8 +1,5 @@
 package li.jesse.behavioral.command;
 
-import li.jesse.behavioral.command.sample.*;
-import org.junit.Test;
-
 public class CommandTest
 {
 //    @Test
