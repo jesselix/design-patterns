@@ -1,9 +1,9 @@
 package li.jesse.structural.bridge;
 
-import li.jesse.structural.bridge.sample.CircleShape;
-import li.jesse.structural.bridge.sample.DrawingAPI1;
-import li.jesse.structural.bridge.sample.DrawingAPI2;
-import li.jesse.structural.bridge.sample.Shape;
+import li.jesse.structural.bridge.example.CircleShape;
+import li.jesse.structural.bridge.example.DrawingAPI1;
+import li.jesse.structural.bridge.example.DrawingAPI2;
+import li.jesse.structural.bridge.example.Shape;
 import org.junit.Test;
 
 public class BridgeTest

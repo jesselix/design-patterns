@@ -1,9 +1,9 @@
 package li.jesse.creational.abstractfactory;
 
-import li.jesse.creational.abstractfactory.sample.BenzCar;
-import li.jesse.creational.abstractfactory.sample.BusinessDriver;
-import li.jesse.creational.abstractfactory.sample.Driver3;
-import li.jesse.creational.abstractfactory.sample.Driver4;
+import li.jesse.creational.abstractfactory.example.BenzCar;
+import li.jesse.creational.abstractfactory.example.BusinessDriver;
+import li.jesse.creational.abstractfactory.example.Driver3;
+import li.jesse.creational.abstractfactory.example.Driver4;
 import org.junit.Test;
 
 public class AbstractFactoryTest

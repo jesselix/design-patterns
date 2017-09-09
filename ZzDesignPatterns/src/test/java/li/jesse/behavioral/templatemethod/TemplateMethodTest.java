@@ -1,7 +1,7 @@
 package li.jesse.behavioral.templatemethod;
 
-import li.jesse.behavioral.templatemethod.sample.Chess;
-import li.jesse.behavioral.templatemethod.sample.Game;
+import li.jesse.behavioral.templatemethod.example.Chess;
+import li.jesse.behavioral.templatemethod.example.Game;
 import org.junit.Test;
 
 public class TemplateMethodTest

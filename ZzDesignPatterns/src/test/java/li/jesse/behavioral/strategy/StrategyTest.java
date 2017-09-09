@@ -1,8 +1,8 @@
 package li.jesse.behavioral.strategy;
 
-import li.jesse.behavioral.strategy.sample.AdvancedMemberStrategy;
-import li.jesse.behavioral.strategy.sample.MemberStrategy;
-import li.jesse.behavioral.strategy.sample.Price;
+import li.jesse.behavioral.strategy.example.AdvancedMemberStrategy;
+import li.jesse.behavioral.strategy.example.MemberStrategy;
+import li.jesse.behavioral.strategy.example.Price;
 import org.junit.Test;
 
 public class StrategyTest

@@ -1,8 +1,8 @@
 package li.jesse.behavioral.visitor;
 
-import li.jesse.behavioral.visitor.sample.Car;
-import li.jesse.behavioral.visitor.sample.PrintVisitor;
-import li.jesse.behavioral.visitor.sample.TheVisitor;
+import li.jesse.behavioral.visitor.example.Car;
+import li.jesse.behavioral.visitor.example.PrintVisitor;
+import li.jesse.behavioral.visitor.example.TheVisitor;
 import org.junit.Test;
 
 public class VisitorTest

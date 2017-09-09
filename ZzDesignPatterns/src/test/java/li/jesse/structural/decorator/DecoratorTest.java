@@ -1,8 +1,8 @@
 package li.jesse.structural.decorator;
 
-import li.jesse.structural.decorator.sample.Car;
-import li.jesse.structural.decorator.sample.FlyCar;
-import li.jesse.structural.decorator.sample.SwimCar;
+import li.jesse.structural.decorator.example.Car;
+import li.jesse.structural.decorator.example.FlyCar;
+import li.jesse.structural.decorator.example.SwimCar;
 import org.junit.Test;
 
 public class DecoratorTest
