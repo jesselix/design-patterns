@@ -17,4 +17,12 @@ public class BuilderTest
 
         Pizza pizza = waiter.getPizza();
     }
+
+    @Test
+    public void testBuilder2() {
+        User user = new User.UserBuilder("王", "小二").age(20).phone("123456789").address("亚特兰蒂斯大陆").build();
+
+        System.out.println(user.getAddress());
+
+    }
 }
