@@ -1,4 +1,3 @@
 # Design Patterns
 
-Design Patterns Knowledge and Examples
-
+Design Patterns Knowledge
