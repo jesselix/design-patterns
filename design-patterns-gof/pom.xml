@@ -1,48 +1,30 @@
-<project
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://maven.apache.org/POM/4.0.0"
-        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<modelVersion>4.0.0</modelVersion>
 
-    <modelVersion>4.0.0</modelVersion>
+<groupId>li.jesse</groupId>
+<artifactId>design-patterns-gof</artifactId>
+<version>0.0.1</version>
 
-    <groupId>li.jesse</groupId>
-    <artifactId>design_patterns</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+<name>design-patterns-gof</name>
+<url>https://github.com/jesselix/design-patterns</url>
 
-    <name>${project.groupId}:${project.artifactId}</name>
-    <url>https://github.com/jesselix/zz-design-patterns</url>
-    <description>Design Patterns Knowledge and Examples</description>
+<properties>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+</properties>
 
-    <dependencies>
-
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-core</artifactId>
-            <version>5.1.1.RELEASE</version>
-        </dependency>
-
-    </dependencies>
-
-    <build>
-        <finalName>design_patterns</finalName>
-
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>11</source>
-                    <target>11</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
+<dependencies>
+    <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+        <version>6.0.0-M1</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
 
 </project>
